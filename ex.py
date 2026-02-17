@@ -1,7 +1,4 @@
 #Example 1
-import streamlit as st
-import plotly.express as px
-import pandas as pd
 
 # Title of the app
 st.title("Streamlit Dashboard with Plotly")
